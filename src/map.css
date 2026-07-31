@@ -1,0 +1,21 @@
+.clue-map {
+  margin: 22px 0 0;
+  overflow: hidden;
+  border: 1px solid #ffffff22;
+  border-radius: 16px;
+  background: #031018;
+}
+
+.clue-map img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 26 / 17;
+  object-fit: cover;
+}
+
+.clue-map figcaption {
+  padding: 10px 14px;
+  color: #8ed8dd;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+}

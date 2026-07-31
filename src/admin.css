@@ -1,0 +1,56 @@
+.admin-section-head {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #ffffff1a;
+}
+
+.hint-editors {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.hint-editor {
+  padding: 1.25rem;
+  border: 1px solid #ffffff1a;
+  border-radius: 18px;
+  background: #041c2a80;
+}
+
+.hint-editor-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.hint-editor-head h3 {
+  margin: .2rem 0 0;
+}
+
+.hint-editor-head span {
+  color: #7dcbd0;
+  font-size: .9rem;
+  text-align: right;
+}
+
+.hint-editor textarea {
+  min-height: 6rem;
+  resize: vertical;
+}
+
+.hint-editor .actions {
+  margin-top: 1rem;
+}
+
+.hint-editor button {
+  padding: 11px 18px;
+}
+
+.save-status {
+  min-height: 1.4em;
+  margin: .75rem 0 0;
+  color: #7dcbd0 !important;
+  font-size: .9rem;
+}
